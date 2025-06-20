@@ -2,17 +2,18 @@
 
 ## Formalisation
 
- - Key Performance Metrics
-       - **xG** : Expected Goals, the probability of a shot resulting in a goal (0 to 1)
-       - **PPDA** : Passes Per Defensive Actions, indication of the pressing intensity, number of passes opposing team makes before a defensive action
-       - **Packing** : Measure of the passing/dribbling effectiveness, the number of defenders bypassed by a pass or a dribble.
-       - **EPV** : Expected Possession Value, Pass probability * Pass Value
+- Key Performance Metrics
+  - **xG** : Expected Goals, the probability of a shot resulting in a goal (0 to 1)
+  - **PPDA** : Passes Per Defensive Actions, indication of the pressing intensity, number of passes opposing team makes before a defensive action
+  - **Packing** : Measure of the passing/dribbling effectiveness, the number of defenders bypassed by a pass or a dribble.
+  - **EPV** : Expected Possession Value, Pass probability * Pass Value
+   
  - Concepts:
-       - Line breaking
-       - Backward passing
-       - **PI** : Pass Value
-       - **PC** : Pitch control
-       - **PP** : Pass probability 
+   - Line breaking
+   - Backward passing
+   - **PI** : Pass Value
+   - **PC** : Pitch control
+   - **PP** : Pass probability 
 
 
 ## Resources
