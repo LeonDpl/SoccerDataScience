@@ -16,7 +16,11 @@
         - Plot player / team metric aggregated per game over time
       - Stack : which db?, flask, streamlit?
 
-## Formalisation
+## Formalisation and Glossary
+
+- Glossary
+  - [Wyscout glossary](https://dataglossary.wyscout.com/)
+  - [Soccer positions explained](https://jobsinfootball.com/blog/soccer-positions/)
 
 - Key Performance Metrics
   - **xG** : Expected Goals, the probability of a shot resulting in a goal (0 to 1)
@@ -29,7 +33,7 @@
    - Backward passing
    - **PI** : Pass Value
    - **PC** : Pitch control
-   - **PP** : Pass probability 
+   - **PP** : Pass probability
 
 
 ## Resources
@@ -43,6 +47,11 @@
      - [lecture: EPV](https://uppsala.instructure.com/courses/28112/pages/8-expected-possession-value)
      - [paper: Actions speaks louder than goals](https://arxiv.org/pdf/1802.07127)
      - [dataset: Google Research Football with Manchester City](https://www.kaggle.com/competitions/google-football/rules)
+     - [paper: Visual analytics of soccer player performance using objective ratings](https://journals.sagepub.com/doi/full/10.1177/14738716231220539)
+     - [paper: A new performance metric for player evaluation based on causality](https://statsbomb.com/wp-content/uploads/2022/09/Alessandro-Crechin-A-New-Performance-Metric-For-Player-Evaluation-Based-On-Causality.pdf)
+     - [paper: Modelling team play style using tracking data](https://statsbomb.com/wp-content/uploads/2022/09/Alessandro-Crechin-A-New-Performance-Metric-For-Player-Evaluation-Based-On-Causality.pdf)
+     - [dataset: Football analytics 101](https://football-analytics-101.readthedocs.io/en/latest/data.html)
+     - [article: Luis Enrique réinvente le jeu de position au PSG](https://www.sky-sport.ch/fr/articles/5-dedans-5-dehors-luis-enrique-reinvente-le-jeu-de-position-au-psg-2/)
   
  - Courses:
      - [Mathematical modelling of football](https://uppsala.instructure.com/courses/28112/pages)
