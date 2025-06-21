@@ -1,5 +1,21 @@
 # SoccerDataScience
 
+## Work
+
+- 2025-06-21
+  - Init a github repo
+  - Do some research on soccer analytics, performance and domain specific knowledge
+  - Init a notebook to explore Statsbomb data
+  - TODO : 
+    - Continue domain kowledge formalisation
+      - List datasources and content and dataset samples
+      - Organize state of the art related to soccer performance
+    - Small app specification 
+      - Expected functions:
+        - Plot player / team metric over time during a game
+        - Plot player / team metric aggregated per game over time
+      - Stack : which db?, flask, streamlit?
+
 ## Formalisation
 
 - Key Performance Metrics
@@ -34,3 +50,26 @@
  - Repos:
    - [FoTD](https://github.com/Friends-of-Tracking-Data-FoTD)
    - [StatsBomb open data](https://github.com/statsbomb/open-data/tree/master/data)
+
+
+## Code
+
+## Installation
+
+- [Git](https://git-scm.com/downloads/win)
+- [miniconda](https://www.anaconda.com/download)
+- [VSCode](https://code.visualstudio.com/Download)
+  - Install extensions : Python, Github issues, Jupyter
+  - Create Python+Conda environment : ctrl+shift+p > Python:Environment
+  - Restart VScode / Relaunch terminal
+
+## Python set-up
+
+- create environment : `conda create -n <envname> python=<pythonversion>`
+- activate environment : `conda activate  <envname>`
+- export environment yaml file : `conda env export > <envname>.yml`
+
+### StatsBomb
+
+- [repo: StatsBombPy](https://github.com/statsbomb/statsbombpy)
+  - `pip install statsbombpy`
