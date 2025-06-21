@@ -69,6 +69,11 @@
 - activate environment : `conda activate  <envname>`
 - export environment yaml file : `conda env export > <envname>.yml`
 
+## Git config and VSCode
+
+- `git config --global user.name "<name>"`
+- `git config --global user.email "<email>"`
+
 ### StatsBomb
 
 - [repo: StatsBombPy](https://github.com/statsbomb/statsbombpy)
