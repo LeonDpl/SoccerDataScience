@@ -2,6 +2,9 @@
 
 ## Work
 
+- 2025-06-25
+  - Manipulate statsbombpy to prototype a function to get player data per game on a season
+
 - 2025-06-21
   - Init a github repo
   - Do some research on soccer analytics, performance and domain specific knowledge
@@ -13,7 +16,7 @@
     - Small app specification 
       - Expected functions:
         - Plot player / team metric over time during a game
-        - Plot player / team metric aggregated per game over time
+        - ~~Plot player / team metric aggregated per game over time~~
       - Stack : which db?, flask, streamlit?
 
 ## Formalisation and Glossary
