@@ -39,8 +39,6 @@ kiwisolver
 MarkupSafe
 matplotlib==3.10.0
 matplotlib-inline
-mkl-service==2.4.0
-mkl_random
 more-itertools==10.7.0
 mplsoccer==1.5.0
 narwhals==1.44.0
