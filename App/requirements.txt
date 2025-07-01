@@ -40,7 +40,6 @@ MarkupSafe
 matplotlib==3.10.0
 matplotlib-inline
 mkl-service==2.4.0
-mkl_fft
 mkl_random
 more-itertools==10.7.0
 mplsoccer==1.5.0
