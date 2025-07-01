@@ -188,4 +188,4 @@ dependencies:
       - statsbombpy==1.16.0
       - typeguard==4.4.4
       - url-normalize==2.2.1
-prefix: soccerdatascience-env
+prefix: soccerdatascie
