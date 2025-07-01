@@ -62,6 +62,7 @@
  - Repos:
    - [FoTD](https://github.com/Friends-of-Tracking-Data-FoTD)
    - [StatsBomb open data](https://github.com/statsbomb/open-data/tree/master/data)
+   - [Soccermatics](https://soccermatics.readthedocs.io/)
 
 
 ## Code
