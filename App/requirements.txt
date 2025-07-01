@@ -65,7 +65,6 @@ PyQt6_sip
 PySocks
 python-dateutil
 pytz
-pywin32==304
 PyYAML
 pyzmq
 referencing
