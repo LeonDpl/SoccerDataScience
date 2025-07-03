@@ -44,5 +44,5 @@ Here is a list of unsorted tasks and ideas to improve the application
   - Set-up an api (Flask) to get metrics from the DB
 - Generate a description of the metrics directly onto the application, with reading guidelines
 - Work on use cases and how the application answer to these problems
-- 
+- How to get GK reaction time regarding shot angle, shot distance, shot start time vs. gk move time, shot speed and shot success
 
