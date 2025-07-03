@@ -41,6 +41,8 @@ Here is a list of unsorted tasks and ideas to improve the application
 - Add Application logo
 - Rework multi-pages behaviour https://discuss.streamlit.io/t/rename-the-home-page-in-a-multi-page-app/65533/3
 - Store computed metrics in a SQLite database (centrality for instance) to improve loading performance
+  - Set-up an api (Flask) to get metrics from the DB
 - Generate a description of the metrics directly onto the application, with reading guidelines
 - Work on use cases and how the application answer to these problems
+- 
 
