@@ -29,10 +29,16 @@
   - [Soccer positions explained](https://jobsinfootball.com/blog/soccer-positions/)
 
 - Key Performance Metrics
-  - **xG** : Expected Goals, the probability of a shot resulting in a goal (0 to 1)
-  - **PPDA** : Passes Per Defensive Actions, indication of the pressing intensity, number of passes opposing team makes before a defensive action
-  - **Packing** : Measure of the passing/dribbling effectiveness, the number of defenders bypassed by a pass or a dribble.
-  - **EPV** : Expected Possession Value, Pass probability * Pass Value
+
+| Acronym | Definition | Link |
+| -- | -- | -- |
+| xG |  Expected Goals, the probability of a shot resulting in a goal (0 to 1) | |
+| xT |  Expected Threat, for attacking actions: passes, dribbles, carries etc. | [Soccermatics](https://soccermatics.readthedocs.io/en/latest/lesson4/EvaluatingActions.html) |
+| xD |  Expected Defense, for defending actions: interceptions, blocks | [Soccermatics](https://soccermatics.readthedocs.io/en/latest/lesson4/EvaluatingActions.html) |
+| PPDA | Passes Per Defensive Actions, indication of the pressing intensity, number of passes opposing team makes before a defensive action | |
+| Packing | Measure of the passing/dribbling effectiveness, the number of defenders bypassed by a pass or a dribble | |
+| EPV | Expected Possession Value, Pass probability * Pass Value | |
+| Centralisation Index | Sum the difference between maximal number of successful passes by 1 player and number of successful passes by each player divided by the sum of all passes multiplied by (number of players - 1) 
    
  - Concepts:
    - Line breaking
