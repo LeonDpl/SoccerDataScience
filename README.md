@@ -2,6 +2,9 @@
 
 ## Work
 
+- 2025-06-30
+  - Start a streamlit App
+
 - 2025-06-25
   - Manipulate statsbombpy to prototype a function to get player data per game on a season
 
