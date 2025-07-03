@@ -52,16 +52,11 @@
 
  - Unsorted links:
      - [youtube : Intro to statsbombpy API](https://www.youtube.com/watch?v=Ryn8etss1p4)
-     - [paper: SFM Soccer Factor Model](https://arxiv.org/pdf/2412.05911)
      - [article: Key metrics and methods of player evaluations](https://soccerwizdom.com/2024/11/28/player-evaluations-in-soccer-key-metrics-and-methods/)
      - [article: How to evaluate player performance](https://football-observatory.com/IMG/pdf/note02en.pdf)
-     - [paper: Data-Driven Visual Performance Analysis in Soccer](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02416/full)
      - [lecture: EPV](https://uppsala.instructure.com/courses/28112/pages/8-expected-possession-value)
      - [paper: Actions speaks louder than goals](https://arxiv.org/pdf/1802.07127)
      - [dataset: Google Research Football with Manchester City](https://www.kaggle.com/competitions/google-football/rules)
-     - [paper: Visual analytics of soccer player performance using objective ratings](https://journals.sagepub.com/doi/full/10.1177/14738716231220539)
-     - [paper: A new performance metric for player evaluation based on causality](https://statsbomb.com/wp-content/uploads/2022/09/Alessandro-Crechin-A-New-Performance-Metric-For-Player-Evaluation-Based-On-Causality.pdf)
-     - [paper: Modelling team play style using tracking data](https://statsbomb.com/wp-content/uploads/2022/09/Alessandro-Crechin-A-New-Performance-Metric-For-Player-Evaluation-Based-On-Causality.pdf)
      - [dataset: Football analytics 101](https://football-analytics-101.readthedocs.io/en/latest/data.html)
      - [article: Luis Enrique réinvente le jeu de position au PSG](https://www.sky-sport.ch/fr/articles/5-dedans-5-dehors-luis-enrique-reinvente-le-jeu-de-position-au-psg-2/)
   
@@ -72,6 +67,16 @@
    - [FoTD](https://github.com/Friends-of-Tracking-Data-FoTD)
    - [StatsBomb open data](https://github.com/statsbomb/open-data/tree/master/data)
    - [Soccermatics](https://soccermatics.readthedocs.io/)
+  
+ - Papers :
+   - [Data-driven understanding on soccer team tactics and ranking trends: Elo rating-based trends on European soccer leagues](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318485)
+   - [Player Migration and Soccer Performance](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00616/full)
+   - [Football Rating Systems for Top-Level Competition: A Critical Survey](https://www.degruyterbrill.com/document/doi/10.2202/1559-0410.1071/html)
+   - [Visual analytics of soccer player performance using objective ratings](https://journals.sagepub.com/doi/full/10.1177/14738716231220539)
+   - [A new performance metric for player evaluation based on causality](https://statsbomb.com/wp-content/uploads/2022/09/Alessandro-Crechin-A-New-Performance-Metric-For-Player-Evaluation-Based-On-Causality.pdf)
+   - [Modelling team play style using tracking data](https://statsbomb.com/wp-content/uploads/2022/09/Alessandro-Crechin-A-New-Performance-Metric-For-Player-Evaluation-Based-On-Causality.pdf)
+   - [Data-Driven Visual Performance Analysis in Soccer](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02416/full)
+   - [SFM Soccer Factor Model](https://arxiv.org/pdf/2412.05911)
 
 
 ## Code
